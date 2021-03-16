@@ -2133,6 +2133,9 @@ img.mfp-img {
 
 
 .contacts-link-map {
+  width: 100%;
+  padding-top: 14px;
+  padding-bottom: 14px;
   color: currentColor
 }
 /*# sourceMappingURL=/src.e31bb0bc.css.map */
